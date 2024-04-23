@@ -16,8 +16,8 @@
 <p style="color:rgb(150, 153, 0)">Маючи цю навичку ви можете ви можете посилити своїх тіней на 5 год.</p>
 <p style="color:rgb(150, 153, 0)">Перезярядка: 30 хв.</p>
 </main>
-<footer>
-<a href="">Повернутись назад--></a>
+<footer style="background-color:black>
+<a href="https://ketsero.github.io/Information/">Повернутись назад--></a>
 </footer>
 </body>
 </html>
